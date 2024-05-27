@@ -21,5 +21,3 @@ fullName = 'Hola Ricardo';
 const year = 2024;
 // ya que luego no se le puede cambiar el valor.
 year = 2025; (No permite)
-
-```
